@@ -2,7 +2,8 @@
 
 ###A growing library of icons built in [Sketch](http://www.bohemiancoding.com/sketch/) by [@nicolau](https://twitter.com/nicolau).
 
-![Preview](https://github.com/nickdominguez/sketchicons/preview.png)
+
+![Preview](https://raw.github.com/nickdominguez/sketchicons/master/preview.png)
 
 ##License
 
