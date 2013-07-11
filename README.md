@@ -2,6 +2,7 @@
 
 ###A growing library of icons built in [Sketch](http://www.bohemiancoding.com/sketch/) by [@nicolau](https://twitter.com/nicolau).
 
+Awesome!
 
 ![Preview](https://raw.github.com/nickdominguez/sketchicons/master/preview.png)
 
