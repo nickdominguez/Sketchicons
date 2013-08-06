@@ -4,7 +4,7 @@
 
 Awesome!
 
-![Preview](https://raw.github.com/nickdominguez/sketchicons/master/preview.png)
+![Preview](https://github.com/nickdominguez/sketchicons/blob/master/sketchicons.sketch/QuickLook/Preview.png)
 
 ##License
 
